@@ -1,4 +1,4 @@
-# -Analysis_and_Design
+# Analysis_and_Design
 ## Course, Analysis and Design Portfolio Submission
 ## Build & Run
 ### g++ -std=c++17 -O2 course_planner.cpp -o course_planner
