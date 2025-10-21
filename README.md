@@ -1,8 +1,8 @@
 # Analysis_and_Design
 ## Course, Analysis and Design Portfolio Submission
-## Build & Run
-### g++ -std=c++17 -O2 course_planner.cpp -o course_planner
-### ./course_planner
+## Build and Run
+### g++ -std=c++17 -O2 ProjectTwo.cpp -o ProjectTwo
+### ./ProjectTwo
 ### Expected CSV format:
 - CSCI100, Introduction to Computer Science
 - CSCI200, Data Structures, CSCI100
